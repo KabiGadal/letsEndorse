@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/letsEndorse/static/css/main.e18b0d92.css",
+    "main.js": "/letsEndorse/static/js/main.df11cce6.js",
+    "static/js/787.e38e40fe.chunk.js": "/letsEndorse/static/js/787.e38e40fe.chunk.js",
+    "index.html": "/letsEndorse/index.html",
+    "main.e18b0d92.css.map": "/letsEndorse/static/css/main.e18b0d92.css.map",
+    "main.df11cce6.js.map": "/letsEndorse/static/js/main.df11cce6.js.map",
+    "787.e38e40fe.chunk.js.map": "/letsEndorse/static/js/787.e38e40fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18b0d92.css",
+    "static/js/main.df11cce6.js"
+  ]
+}
