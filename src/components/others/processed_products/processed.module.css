@@ -1,0 +1,32 @@
+.cont{
+    display: flex;
+    gap:3%;
+}
+.left{
+    width:47.55%;
+    height:28px;
+}
+
+.inp{
+    width:483px;
+    height:28px;
+    border-radius: 3px;
+    border:0.5px solid rgb(206, 203, 203);
+    padding-left:5px;
+    text-align: center;
+}
+.name{
+    padding:0px;
+    margin:0px;
+    text-align: start;
+}
+.inner{
+    padding-left: 20px;
+}
+.right{
+    width:57%;
+     height: 50px;
+    margin-top: 2%;
+        font-size: larger;
+    font-weight: bold;
+}

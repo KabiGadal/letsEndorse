@@ -1,0 +1,23 @@
+.cont{
+    display:flex;
+    gap: 3%;
+    /* margin-top:20px; */
+}
+.left{
+    width:491px;
+}
+.right{
+    width:57%;
+     height: 50px;
+    margin-top: 2%;
+        font-size: larger;
+    font-weight: bold;
+}
+.name{
+    padding:0px;
+    margin:0px;
+    text-align: start;
+}
+.inner{
+    padding-left: 20px;
+}
